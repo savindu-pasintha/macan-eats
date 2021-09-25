@@ -1,0 +1,10 @@
+<resources>
+    <!-- Strings used for fragments for navigation -->
+    <string name="app_name">Machaneatesmerchen</string>
+
+    <!-- Strings used for Login page font size -->
+    <string name="btn_font_size">16sp</string>
+    <string name="input_field_font_size">15sp</string>
+    <string name="title_font_size">24sp</string>
+    <string name="t_c_font_size">11sp</string>
+</resources>
